@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomWork5</string>
+    <string name="EtProfPassword">Введите пароль</string>
+    <string name="EtLoginPassword">Введите логин</string>
+    <string name="etlogin">Введите логин</string>
+    <string name="etPassword">Введите пароль</string>
+    <string name="btLogin">Login</string>
+    <string name="btRegistration">REGISTRATION</string>
+    <string name="Update">Update</string>
+    <string name="exit">Exit</string>
+</resources>
